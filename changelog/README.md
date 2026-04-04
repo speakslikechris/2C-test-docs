@@ -11,7 +11,7 @@ icon: clock-rotate-left
 
 See what’s new and improved in our latest update.
 
-### Product feature
+#### Product feature
 
 * Feature description
 * Feature description
@@ -50,14 +50,14 @@ See what’s new and improved in our latest update.
 
 See what’s new and improved in our latest update.
 
-### Product feature #1
+#### Product feature #1
 
 * Feature description
 * Feature description
 
 <a href="https://gitbook.com/" class="button primary">Read the documentation</a>
 
-### Product feature #2
+#### Product feature #2
 
 * Feature description
 * Feature description

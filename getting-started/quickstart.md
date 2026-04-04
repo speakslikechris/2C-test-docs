@@ -12,9 +12,12 @@ Beautiful documentation starts with the content you create — and GitBook makes
 Want to learn about writing content from scratch? Head to the [Basics](../basics/editor.md) section to learn more.
 {% endhint %}
 
+## Random Addition
+Adding this here to check how commits work on multiple instances.
+
 ### Import
 
-GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files to be imported.
+GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files.
 
 <div data-full-width="false"><figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-import.png" alt=""><figcaption></figcaption></figure></div>
 

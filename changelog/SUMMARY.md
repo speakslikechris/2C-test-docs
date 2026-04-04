@@ -1,4 +1,4 @@
 # Table of contents
 
 ## KORE
-* Changelog (../README.md)
+* [Changelog](README.md)

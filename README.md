@@ -1,12 +1,92 @@
 ---
-description: Learn more about documenting APIs in GitBook.
-icon: terminal
+description: New updates and improvements
+icon: clock-rotate-left
 ---
 
-# Developer Platform API
+# Changelog
 
-GitBook automatically generates pages and endpoints for your OpenAPI spec. Fully customizable and equipped with testing capabilities, your documentation has never been more powerful.
+{% updates format="full" %}
+{% update date="2025-12-03" %}
+## Product update
 
-The API reference below is automatically generated from a demo OpenAPI spec in this space.
+See what’s new and improved in our latest update.
 
-<a href="https://gitbookio.github.io/onboarding-template-images/gitbook-petstore.yaml" class="button primary" data-icon="arrow-up-right-from-square">View OpenAPI spec</a>
+### Product feature
+
+* Feature description
+* Feature description
+
+<a href="https://gitbook.com/" class="button primary">Read the documentation</a>
+
+<div align="left"><figure><img src="https://gitbookio.github.io/onboarding-template-images/placeholder.png" alt=""><figcaption></figcaption></figure></div>
+
+<details>
+
+<summary>Improved</summary>
+
+* Product improvement
+* Product improvement
+* Product improvement
+* Product improvement
+* Product improvement
+
+</details>
+
+<details>
+
+<summary>Fixed</summary>
+
+* Product fix
+* Product fix
+* Product fix
+* Product fix
+* Product fix
+
+</details>
+{% endupdate %}
+
+{% update date="2025-11-28" %}
+## Product update
+
+See what’s new and improved in our latest update.
+
+### Product feature #1
+
+* Feature description
+* Feature description
+
+<a href="https://gitbook.com/" class="button primary">Read the documentation</a>
+
+### Product feature #2
+
+* Feature description
+* Feature description
+* Feature description
+
+<a href="https://gitbook.com/" class="button primary">Read the documentation</a>
+
+<details>
+
+<summary>Improved</summary>
+
+* Product improvement
+* Product improvement
+* Product improvement
+* Product improvement
+* Product improvement
+
+</details>
+
+<details>
+
+<summary>Fixed</summary>
+
+* Product fix
+* Product fix
+* Product fix
+* Product fix
+* Product fix
+
+</details>
+{% endupdate %}
+{% endupdates %}

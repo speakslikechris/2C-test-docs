@@ -15,3 +15,6 @@ description: Welcome to your team’s developer platform
 <p align="center">You can find some other documentation and discussions on our Slack and Confluence channels</p>
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h4><i class="fa-slack">:slack:</i></h4></td><td><strong>Slack community</strong></td><td>Join our Slack community to post questions, get help, and share resources with other Two Circlers.</td><td><a href="https://www.gitbook.com/" class="button secondary">Join Slack</a></td><td></td></tr><tr><td><h4><i class="fa-confluence">:confluence:</i></h4></td><td><strong>Confluence</strong></td><td>Visit our Confluence repository for general onboarding documentation, JIRA tickets, and sprint updates.</td><td><a href="https://www.gitbook.com/" class="button secondary">Go to Confluence</a></td><td></td></tr></tbody></table>
+
+## Targeted Edits
+This is a targeted edit.
